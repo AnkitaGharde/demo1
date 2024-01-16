@@ -1,0 +1,16 @@
+Id,gender,city,experience,salary
+1001,M,pune,1,10000
+1002,F,mumbai,5,50000
+1003,M,pune,4,NaN
+1004,M,beed,6,60000
+1005,F,beed,7,70000
+1006,M,bhandara,5,50000
+1007,F,beed,2,20000
+1008,F,pune,8,80000
+1009,F,nagpur,6,60000
+1010,F,pune,3,30000
+1011,M,nagpur,9,90000
+1012,F,gondia,4,40000
+1013,F,bhandara,1,10000
+1014,M,gondia,8,80000
+1015,M,nagpur,5,50000
